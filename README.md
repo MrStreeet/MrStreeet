@@ -1,4 +1,4 @@
-# Welcome to my profile, I'm MrStreeet 🙂
+# Welcome, I'm MrStreeet 👋
 <div align="center">
 
 ## ABOUT ME
