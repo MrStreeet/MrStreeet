@@ -3,6 +3,7 @@
 
 ## ABOUT ME
 I'm just looking around, maybe in the future here there's something big :)
+
 Learning Java, HTML, JavaScript and Python
 
 -------------------
