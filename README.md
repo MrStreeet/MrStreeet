@@ -1,4 +1,4 @@
-## WORK IN PROGRESS... 🎈
+# Welcome to my profile, I'm MrStreeet 🙂
 <div align="center">
 
 ## ABOUT ME
