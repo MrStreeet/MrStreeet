@@ -1,5 +1,8 @@
-### Hi there 👋
+# 🧬 About Me
+*If you seek success, you must aspire to the unattainable.*
 
+- ⚡ CEO of Ramble.
+- 🌌 Currently learning and improving skills.
 <!--
 **MrStreeet/MrStreeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
